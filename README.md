@@ -1,6 +1,6 @@
 ## Mimicking rxjs operators in vanilla javascript
 
-**Autor: Flávio Almeida**
+**Author: Flávio Almeida**
 
 For testing purpose, this project run an express server with both API static assets. 
 
