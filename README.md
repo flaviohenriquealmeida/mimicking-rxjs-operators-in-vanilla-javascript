@@ -6,7 +6,7 @@ For testing purpose, this project run an express server with both API static ass
 
 ## How to run?
 
-```
+```bash
 cd mimicking-rxjs-operators-in-vanilla-javascript
 npm install
 npm start
@@ -14,7 +14,7 @@ npm start
 
 Point your browser to `http://localhost:3000`. You will see only one button. The main module is `public/app.js`. Let's take a look:
 
-```
+```javascript
 // for the local API access
 import { getNegotiations } from './api.js';
 
